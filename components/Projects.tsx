@@ -9,7 +9,7 @@ const PROJECTS = [
     desc: 'Architected an AI-powered microservices learning platform. Built a dynamic Next.js React frontend, a Node.js/Express core API for handling user telemetry, and a custom Python/FastAPI machine learning engine that interfaces with LLMs to dynamically scale educational difficulty based on real-time student performance.',
     tags: ['Next.js', 'React', 'Node.js', 'Python', 'MongoDB', 'Express', 'FastAPI'],
     github: 'https://github.com/Rema2003/Adaptive-learning',
-    live: '',
+    live: 'https://adaptive-learning-one.vercel.app/',
   },
 ];
 
