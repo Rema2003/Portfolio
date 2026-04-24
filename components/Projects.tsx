@@ -17,7 +17,7 @@ const PROJECTS = [
     desc: 'Engineered a highly-secure, full-stack AI interview simulator complete with offline rapid-fire permutations, dynamic countdown assessments, and a custom zero-tolerance facial recognition anti-cheat engine leveraging WebRTC and MediaPipe algorithms.',
     tags: ['React', 'Vite', 'Node.js', 'MongoDB', 'Express', 'Face-api.js', 'Google Gemini'],
     github: 'https://github.com/Rema2003/ai-interview-trainer',
-    live: '',
+    live: 'https://frontend-kdofxjo5j-rema2003s-projects.vercel.app/',
   },
 ];
 
